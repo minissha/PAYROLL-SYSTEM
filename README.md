@@ -1,3 +1,5 @@
+PAYROLL MANAGEMENT SYSTEM:
+
 This project aimed to create a practical and useful program to manage a company system. 
 The Payroll Management System Project is a system used by companies to help manage the computation, disbursement, and reporting of employees’ salaries efficiently and accurately 
 
