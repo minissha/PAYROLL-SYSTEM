@@ -1,10 +1,25 @@
-PAYROLL MANAGEMENT SYSTEM:
+PAYROLL MANAGEMENT SYSTEM
 
-This project aimed to create a practical and useful program to manage a company system. 
-The Payroll Management System Project is a system used by companies to help manage the computation, disbursement, and reporting of employees’ salaries efficiently and accurately 
+This project is a simple yet functional payroll management system created using Python** and MySQL. It is designed to help companies manage employee salary records, including tasks like adding, modifying, deleting, and displaying salary slips.
 
-The program is used for adding records, displaying records, deleting records, modifying records of an employee, and for display of their payroll or salary slips.
+📌 Features
 
-The Python program is constructed by incorporating functions, if-else constructs, and integrating a MySQL database. 
+- Add new employee salary records
+- Display all existing records
+- Modify specific employee records
+- Delete records based on employee ID
+- Generate basic salary slips
 
-Upon running the program, the user is presented with a main menu. It contains option from which we can opt for
+🧰 Tech Stack
+
+- Language: Python
+- **Database: MySQL
+- Connector:`mysql-connector-python`
+
+🚀 How to Run
+
+1. Make sure MySQL is installed and running.
+2. Install dependencies: `pip install mysql-connector-python tabulate`
+3. Run the program: `python payroll.py`
+4. Enter your database name when prompted.
+
